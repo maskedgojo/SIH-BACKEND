@@ -1,0 +1,1 @@
+timestamp,signal_id,cycle,approach,C,EVU_raw,EVU_smooth,queue_len,arrival_rate,emergency,D,W,W_norm,Dprime,G_allocated,order_1,order_2,order_3,order_4,t_start,t_end,intergreen_L,T_base,G_min,G_max,alpha_up,alpha_down,beta,W_th
