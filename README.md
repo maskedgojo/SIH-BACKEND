@@ -1,4 +1,3 @@
-```markdown
 # 🚦 Smart Traffic Management System  
 ### SIH 2025 Project Submission  
 
@@ -132,4 +131,3 @@ This Smart Traffic Management System provides an intelligent, scalable, and effi
 ---
 
 ⭐ *Developed for Smart India Hackathon (SIH) 2025*
-```
